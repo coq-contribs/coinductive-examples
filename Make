@@ -1,0 +1,8 @@
+-R . CoinductiveExamples
+-impredicative-set
+./ARITH/Omega.v
+./ARITH/Acc_and_Inf.v
+./STREAMS/Specified_Streams.v
+./STREAMS/Examples.v
+./STREAMS/Alter.v
+
