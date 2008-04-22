@@ -10,3 +10,4 @@ Description: This directory containts some simple examples about
              article ``Codifying guarded definitions with recursive
              schemes'' (LNCS no. 996).  
 Keywords: co-inductive types co-induction principle
+Category: Miscellaneous/Coq Use Examples
