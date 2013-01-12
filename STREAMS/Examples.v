@@ -34,6 +34,8 @@
 (*                       by Eduardo Gimenez                                 *)
 (****************************************************************************)
 
+Set Asymmetric Patterns.
+
 Require Import Plus.
 Require Import Streams.
 

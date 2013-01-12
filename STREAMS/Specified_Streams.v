@@ -16,6 +16,7 @@
 
 (* Contribution to the Coq Library   V6.3 (July 1999)                    *)
 
+Set Asymmetric Patterns.
 
 Section Specified_Streams. (* The set of Specified Streams : definition *)
 
