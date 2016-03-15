@@ -1,5 +1,6 @@
 -R . CoinductiveExamples
--impredicative-set
+-arg -impredicative-set
+
 ./ARITH/Omega.v
 ./ARITH/Acc_and_Inf.v
 ./STREAMS/Specified_Streams.v
