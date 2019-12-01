@@ -25,7 +25,7 @@ CoInductive Inf : A -> Prop :=
     inf : forall x y : A, R y x -> Inf y -> Inf x.
 
 Theorem NotBoth : forall x : A, Acc R x -> Inf x -> False.
-fix 2.
+fix NotBoth 2.
 intros x H.
 case H.
 intros.

@@ -125,7 +125,7 @@ Fixpoint ntoN (n : nat) : Nat :=
   end.
 
 Lemma natInj : forall n m : nat, ntoN n = ntoN m -> n = m.
-fix 1.
+fix natInj 1.
 intro n.
 case n.
 simple destruct m.
